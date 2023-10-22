@@ -10,7 +10,7 @@ AppMusica é um aplicativo de música simples desenvolvido com o poderoso framew
 
 ## Capturas de Tela
 
-![AppMusicaPreview](app_musica/assets/AppMusicaPreview.jpeg)
+<img src="app_musica/assets/AppMusicaPreview.jpeg" alt="AppMusicaPreview" width="300" height="600">
 
 
 ## Pré-requisitos
